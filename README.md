@@ -1,4 +1,4 @@
-# VigenereCipher
+# Vigenere Cipher / Szyfr Vigenere'a
 
 Java console application enabling encryption and decryption of a .txt file with Vigenere Cipher.
 
